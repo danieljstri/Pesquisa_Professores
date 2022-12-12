@@ -1,0 +1,5 @@
+Criar um aplicativo de software para ensino de enfermagem na avaliação do desenvolvimento infantil.
+
+Pesquisa metodológica aplicada, desenvolvida em três etapas: análise, desenho e desenvolvimento. As características de qualidade do produto das normas ISO/IEC 25010 foram adotadas. A linguagem de programação usada foi JavaScript. O software educacional foi desenvolvido com base em uma teoria cognitiva construtivista.
+
+link para pesquisa em português: https://www.scielo.br/j/reben/a/3SxvgnpDtpkTWgsW8sPTvJr/?format=html

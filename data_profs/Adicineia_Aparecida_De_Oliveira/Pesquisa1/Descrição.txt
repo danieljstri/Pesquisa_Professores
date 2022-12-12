@@ -1,0 +1,7 @@
+Desenvolver o módulo de software Hemomonitor com sistema de alertas para monitoramento dos pacientes em   uso   de   hemocomponentes.
+
+Trata-se de uma pesquisa aplicada realizada em um Hospital
+Universitário, cuja trajetória metodológica seguiu três etapas: 1) Caracterização do processo transfusional no local do
+estudo; 
+2) Atualização acerca dos softwares disponíveis sobre o tema por meio de uma revisão de literatura; 
+3) Desenvolvimento de software atualizado com base na literatura especializada.

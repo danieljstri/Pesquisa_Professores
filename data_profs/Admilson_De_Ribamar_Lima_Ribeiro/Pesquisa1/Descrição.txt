@@ -1,0 +1,13 @@
+O emprego de novas tecnologias da informação (TI) na Internet traz benefícios para sociedade mas também riscos à privacidade das pessoas. Tecnologias de comunicação, tais como computação em nuvem, fog computing e IoT, são integradas com novas tecnologias de dispositivo, tais como RFID, NFC e QR code, para o desenvolvimento de novos serviços e aplicações. 
+
+O conjunto desses novos serviços e aplicações formam um novo ambiente computacional chamado de computação ubíqua. Contudo, esse ambiente apresenta vulnerabilidades e fica exposto à ameaças e ataques de privacidade principalmente devido ao emprego descuidado dessas tecnologias. Por exemplo, no paradigma da computação em nuvem podem ocorrer diversas falhas principalmente na plataforma de armazenamento de dados. 
+
+Enquanto os dispositivos inteligentes frequentemente são usados para extrair informações sensíveis aos usuários com o intuito de conhecer seus hábitos, deixando expostos seus dados confidenciais. 
+
+Assim, há necessidade de se analisar as principais ameaças, falhas e ataques de privacidade que podem ocorrer na Internet provenientes do uso inadequado de novas TIs emergentes. Dessa maneira, o principal objetivo deste projeto de pesquisa é prover algoritmos, métodos e técnicas que solucionam os principais problemas de privacidade que surgem com o desenvolvimento de serviços e aplicações usando novas TIs. 
+
+Consideraremos também a utilização de técnicas de aprendizado de máquina que usam fluxo de dados devido aos recursos computacionais restritos dos nós que compõem uma tecnologia de rede tais como IoT. Verificaremos também a melhor forma de incorporar os mecanismos de privacidade de modo a atenuar o impacto da aplicação tardia dos mecanismos. 
+
+Como produto final do projeto, além dos mecanismos de privacidade, pretendemos disponibilizar uma arquitetura de virtualização programável de modo que pesquisas futuras sobre privacidade possam ser realizadas e novos mecanismos possam ser desenvolvidos.
+
+(Não consegui encontrar nenhum pesquisa dele, portanto, peguei essa. Ainda está em andamento, mas achei muito interessante)
